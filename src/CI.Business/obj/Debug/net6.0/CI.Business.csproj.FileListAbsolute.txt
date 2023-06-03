@@ -1,0 +1,45 @@
+C:\MyArticles\CI.GenericDAL\CI.Business\bin\Debug\net6.0\CI.Business.deps.json
+C:\MyArticles\CI.GenericDAL\CI.Business\bin\Debug\net6.0\CI.Business.dll
+C:\MyArticles\CI.GenericDAL\CI.Business\bin\Debug\net6.0\CI.Business.pdb
+C:\MyArticles\CI.GenericDAL\CI.Business\bin\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\CI.Business\bin\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\CI.Business.csproj.AssemblyReference.cache
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\CI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\CI.Business.AssemblyInfoInputs.cache
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\CI.Business.AssemblyInfo.cs
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\CI.Business.csproj.CoreCompileInputs.cache
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\CI.Business.csproj.CopyComplete
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\CI.Business.dll
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\refint\CI.Business.dll
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\CI.Business.pdb
+C:\MyArticles\CI.GenericDAL\CI.Business\obj\Debug\net6.0\ref\CI.Business.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.Business.deps.json
+C:\MyArticles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.Business.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.Business.pdb
+C:\MyArticles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.csproj.AssemblyReference.cache
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.AssemblyInfoInputs.cache
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.AssemblyInfo.cs
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.csproj.CoreCompileInputs.cache
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.csproj.CopyComplete
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\refint\CI.Business.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.pdb
+C:\MyArticles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\ref\CI.Business.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.Business.deps.json
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.Business.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.Business.pdb
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\bin\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.csproj.AssemblyReference.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.AssemblyInfoInputs.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.AssemblyInfo.cs
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.csproj.CoreCompileInputs.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.csproj.CopyComplete
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\refint\CI.Business.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\CI.Business.pdb
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Business\obj\Debug\net6.0\ref\CI.Business.dll

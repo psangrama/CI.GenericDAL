@@ -1,0 +1,78 @@
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\CI.Console.csproj.AssemblyReference.cache
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\CI.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\CI.Console.AssemblyInfoInputs.cache
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\CI.Console.AssemblyInfo.cs
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\CI.Console.csproj.CoreCompileInputs.cache
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\CI.Console.exe
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\CI.Console.deps.json
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\CI.Console.runtimeconfig.json
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\CI.Console.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\CI.Console.pdb
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\CI.Console.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\refint\CI.Console.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\CI.Console.pdb
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\CI.Console.genruntimeconfig.cache
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\ref\CI.Console.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\CI.Business.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\CI.Business.pdb
+C:\MyArticles\CI.GenericDAL\CI.Console\bin\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\CI.GenericDAL\CI.Console\obj\Debug\net6.0\CI.Console.csproj.CopyComplete
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.exe
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.deps.json
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.runtimeconfig.json
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.pdb
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Business.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Business.pdb
+C:\MyArticles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.csproj.AssemblyReference.cache
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.AssemblyInfoInputs.cache
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.AssemblyInfo.cs
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.csproj.CoreCompileInputs.cache
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.csproj.CopyComplete
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\refint\CI.Console.dll
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.pdb
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.genruntimeconfig.cache
+C:\MyArticles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\ref\CI.Console.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.exe
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.deps.json
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.runtimeconfig.json
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Console.pdb
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Business.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.Business.pdb
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\bin\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.csproj.AssemblyReference.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.AssemblyInfoInputs.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.AssemblyInfo.cs
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.csproj.CoreCompileInputs.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.csproj.CopyComplete
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\refint\CI.Console.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.pdb
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\CI.Console.genruntimeconfig.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.Console\obj\Debug\net6.0\ref\CI.Console.dll

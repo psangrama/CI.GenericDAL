@@ -1,0 +1,36 @@
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.csproj.AssemblyReference.cache
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.AssemblyInfoInputs.cache
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.AssemblyInfo.cs
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.csproj.CoreCompileInputs.cache
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\bin\Debug\net6.0\CI.GenericDAL.deps.json
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\bin\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\bin\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\obj\Debug\net6.0\refint\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\CI.GenericDAL\CI.GenericDAL\obj\Debug\net6.0\ref\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\bin\Debug\net6.0\CI.GenericDAL.deps.json
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\bin\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\bin\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.csproj.AssemblyReference.cache
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.AssemblyInfoInputs.cache
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.AssemblyInfo.cs
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.csproj.CoreCompileInputs.cache
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\refint\CI.GenericDAL.dll
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\ref\CI.GenericDAL.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\bin\Debug\net6.0\CI.GenericDAL.deps.json
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\bin\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\bin\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.csproj.AssemblyReference.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.AssemblyInfoInputs.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.AssemblyInfo.cs
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.csproj.CoreCompileInputs.cache
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\refint\CI.GenericDAL.dll
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\CI.GenericDAL.pdb
+C:\MyArticles\GitHub Articles\CI.GenericDAL\src\CI.GenericDAL\obj\Debug\net6.0\ref\CI.GenericDAL.dll
