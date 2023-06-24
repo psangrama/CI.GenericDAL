@@ -1,2 +1,2 @@
-# CI.GenericDAL
-Generic DAL
+# CI.ORM
+Simple Micro SQL ORM (For SQL Only)
